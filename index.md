@@ -16,3 +16,7 @@ var myVar = "Hello, world!";
 
 - [x] Complete
 - [ ] Not Complete
+
+- [ ] Turn on GITHUB pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
